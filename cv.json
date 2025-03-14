@@ -1,0 +1,229 @@
+{
+  "basics": {
+    "name": "Aldi Rahmaddani",
+    "label": "Junior Full Stack Developer",
+    "image": "/me_avatar.jpg",
+    "email": "aldi.rahmaddani12@gmail.com",
+    "phone": "+1 555-555-5555",
+    "url": "https://johndoe.dev",
+    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "theme": "default",
+    "location": {
+      "address": "Karanganyar",
+      "postalCode": "57783",
+      "city": "Central Java",
+      "countryCode": "ID",
+      "region": "Indonesia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "john-doe",
+        "url": "https://linkedin.com/in/john-doe"
+      },
+      {
+        "network": "X",
+        "username": "john-doe",
+        "url": "https://x.com/john-doe"
+      },
+      {
+        "network": "GitHub",
+        "username": "aldi-rahmaddani",
+        "url": "https://github.com/aldi-rahmaddani"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Tribintang Emas Mulia",
+      "position": "Frontend Web Developer",
+      "location_type": "On site",
+      "location": "Surakarta, Indonesia",
+      "url": "https://tribintangemasmulia.com/",
+      "startDate": "2023-03-01",
+      "endDate": null,
+      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "highlights": ["Improved website performance by optimizing code"],
+      "responsibilities": [
+        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
+        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
+        "Participated in code reviews and contributed to improving coding standards within the team."
+      ],
+      "achievements": [
+        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "React",
+        "Vue",
+        "Next",
+        "Nuxt",
+        "Tailwind",
+        "Git",
+        "GitLab"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Local Coding Club",
+      "position": "Volunteer",
+      "url": "https://codingclub.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Helped organize coding workshops and mentored new members.",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "SMKN 2 Karanganyar",
+      "url": "https://smkn2kra.sch.id",
+      "area": "Mechanical Engineering",
+      "studyType": "Senior High School",
+      "startDate": "2020-09-01",
+      "endDate": "2022-05-01",
+      "score": "90",
+      "courses": [
+        "CS101 - Introduction to Computer Science",
+        "CS102 - Data Structures"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Full Stack Web Development",
+      "date": "2023-05-01",
+      "issuer": "Online University",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Figma",
+      "level": "Expert",
+      "keywords": ["Design", "UI"]
+    },
+    {
+      "name": "Gitlab",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Indonesian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": ["AI", "Blockchain"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Smith",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "React Shadcn Starter",
+      "isActive": false,
+      "description": "A react frontend template with easy customization.",
+      "highlights": [
+        "Built with React and Tailwind CSS",
+        "Using Shadcn UI as ui component"
+      ],
+      "github": "https://github.com/aldi-rahmaddani/react-shadcn-starter"
+    },
+    {
+      "name": "Vue Shadcn Starter",
+      "isActive": false,
+      "description": "A vue frontend template with easy customization.",
+      "highlights": [
+        "Built with Vue and Tailwind CSS",
+        "Using Shadcn Vue as ui component"
+      ],
+      "github": "https://github.com/aldi-rahmaddani/vue-shadcn-starter"
+    }
+  ]
+}
