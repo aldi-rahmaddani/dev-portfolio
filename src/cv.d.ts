@@ -108,6 +108,7 @@ interface Languages {
 type Language =
   | "Spanish"
   | "English"
+  | "Indonesian"
   | "German"
   | "France"
   | "Italian"

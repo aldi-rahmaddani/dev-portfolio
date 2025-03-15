@@ -18,8 +18,8 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "aldi-rahmaddani",
+        "url": "https://www.linkedin.com/in/aldi-rahmaddani-0587b8243"
       },
       {
         "network": "Instagram",
@@ -239,7 +239,8 @@
         "Built with React and Tailwind CSS",
         "Using Shadcn UI as ui component"
       ],
-      "github": "https://github.com/aldi-rahmaddani/react-shadcn-starter"
+      "github": "https://github.com/aldi-rahmaddani/react-shadcn-starter",
+      "url": ""
     },
     {
       "name": "Vue Shadcn Starter",
@@ -249,7 +250,8 @@
         "Built with Vue and Tailwind CSS",
         "Using Shadcn Vue as ui component"
       ],
-      "github": "https://github.com/aldi-rahmaddani/vue-shadcn-starter"
+      "github": "https://github.com/aldi-rahmaddani/vue-shadcn-starter",
+      "url": ""
     }
   ]
 }
