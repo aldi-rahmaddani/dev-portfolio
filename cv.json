@@ -7,7 +7,7 @@
     "phone": "+1 555-555-5555",
     "url": "https://johndoe.dev",
     "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "theme": "blue",
     "location": {
       "address": "Karanganyar",
       "postalCode": "57783",
@@ -22,9 +22,9 @@
         "url": "https://linkedin.com/in/john-doe"
       },
       {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "network": "Instagram",
+        "username": "intrvrtcode",
+        "url": "https://instagram.com/intrvrtcode"
       },
       {
         "network": "GitHub",
@@ -58,7 +58,6 @@
         "React",
         "Vue",
         "Next",
-        "Nuxt",
         "Tailwind",
         "Git",
         "GitLab"
@@ -93,23 +92,13 @@
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": " The Complete Full-Stack Web Development Bootcamp",
+      "date": "2023-02-19",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-3719b200-17db-43b4-86fa-1c0a69bc7610"
     }
   ],
   "skills": [
-    {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": ["Design", "UI"]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
-    },
     {
       "name": "HTML",
       "level": "Intermediate",
@@ -124,16 +113,6 @@
       "name": "JavaScript",
       "level": "Intermediate",
       "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
     },
     {
       "name": "TypeScript",
@@ -151,11 +130,6 @@
       "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
     },
     {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
-    },
-    {
       "name": "Git",
       "level": "Intermediate",
       "keywords": ["Version Control", "Collaboration", "Source Code"]
@@ -166,7 +140,32 @@
       "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
     },
     {
-      "name": "Next.js",
+      "name": "Gitlab",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Vue",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Next",
       "level": "Beginner",
       "keywords": [
         "Web Development",
@@ -177,9 +176,36 @@
       ]
     },
     {
-      "name": "React",
+      "name": "Nuxt",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Figma",
+      "level": "Expert",
+      "keywords": ["Design", "UI"]
+    },
+    {
+      "name": "MySQL",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
     }
   ],
   "languages": [
