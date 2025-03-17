@@ -1,13 +1,13 @@
-## Print-friendly portfolio CV
+# Print-friendly portfolio CV
 
 ![preview](https://github.com/user-attachments/assets/44c47034-06e4-412a-b9dd-014593b32215)
 
 ![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
-![GitHub stars](https://img.shields.io/github/stars/Smilesharks/dev-portfolio)
-![GitHub issues](https://img.shields.io/github/issues/Smilesharks/dev-portfolio)
-![GitHub forks](https://img.shields.io/github/forks/Smilesharks/dev-portfolio)
-![GitHub PRs](https://img.shields.io/github/issues-pr/Smilesharks/dev-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/aldi-rahmaddani/dev-portfolio)
+![GitHub issues](https://img.shields.io/github/issues/aldi-rahmaddani/dev-portfolio)
+![GitHub forks](https://img.shields.io/github/forks/aldi-rahmaddani/dev-portfolio)
+![GitHub PRs](https://img.shields.io/github/issues-pr/aldi-rahmaddani/dev-portfolio)
 
 ## 🛠️ Stack
 
@@ -58,10 +58,13 @@ Change the data-theme of `cv.json` and choose one of the colour themes defined i
 | ⚙️  | `build`         | Checks for errors and creates a production build in `./dist/`. |
 | ⚙️  | `preview`       | Local preview at `localhost:4321`                              |
 
-CV JSON schema from [**jsonresume.org**](https://jsonresume.org/schema/)
+## ℹ️ Icon Reference
 
-Based on [**Bartosz Jarocki - Print-friendly, minimalist CV page**](https://github.com/BartoszJarocki/cv) and [**Miguel Ángel Durán - minimalist-portfolio-json**](https://github.com/midudev/minimalist-portfolio-json)
-
-### Icon Reference
-
+This project uses icons from:
 [Tabler Icons](https://tabler.io/icons)
+
+### Note:
+
+- CV JSON schema from [**jsonresume.org**](https://jsonresume.org/schema/)
+
+- Based on [**Smilesharks - dev-portfolio**](https://github.com/Smilesharks/dev-portfolio)

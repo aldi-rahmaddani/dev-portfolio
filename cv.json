@@ -2,7 +2,7 @@
   "basics": {
     "name": "Aldi Rahmaddani",
     "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
+    "image": "/me_avatar.png",
     "email": "aldi.rahmaddani12@gmail.com",
     "phone": "+1 555-555-5555",
     "url": "https://johndoe.dev",
@@ -58,6 +58,7 @@
         "React",
         "Vue",
         "Next",
+        "Nuxt",
         "Tailwind",
         "Git",
         "GitLab"
@@ -115,6 +116,11 @@
       "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     },
     {
+      "name": "Alpine",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
       "name": "TypeScript",
       "level": "Intermediate",
       "keywords": [
@@ -126,6 +132,16 @@
     },
     {
       "name": "Node",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+    },
+    {
+      "name": "Golang",
       "level": "Intermediate",
       "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
     },
